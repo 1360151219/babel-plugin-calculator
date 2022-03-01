@@ -10,4 +10,4 @@
 
 **参考资料**
 
-- ![手撸JS系列:Babel精度计算插件](https://juejin.cn/post/6844904086999924744#heading-3)
+- [手撸JS系列:Babel精度计算插件](https://juejin.cn/post/6844904086999924744#heading-3)
