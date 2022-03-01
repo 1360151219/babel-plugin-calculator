@@ -1,0 +1,22 @@
+{
+  "name": "babel-plugin-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.17.5",
+    "babel-loader": "^8.2.3",
+    "html-webpack-plugin": "^4.5.0",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "babel-template": "^6.26.0"
+  }
+}
